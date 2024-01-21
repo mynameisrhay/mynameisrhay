@@ -4,10 +4,14 @@
 
 I'm a Bachelor of Science in Computer Science graduate, passionate about crafting innovative software solutions. My journey began back in 2010, and since then, I've specialized in various programming languages and database systems, including:
 
+- **Python**
+- **Django**
+- **JavaScript**
+- **React JS**
+- **Tailwind CSS**
 - PHP
 - HTML
-- CSS
-- JavaScript
+- Vanilla CSS
 - ASP.NET
 - Visual Basic .NET
 - Visual Basic 6.0
@@ -15,7 +19,6 @@ I'm a Bachelor of Science in Computer Science graduate, passionate about craftin
 - MySQL
 - SQL Server
 - Oracle
-- **Python** (Currently focusing on learning and mastering)
 
 ### Career Snapshot
 
